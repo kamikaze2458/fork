@@ -1,0 +1,47 @@
+div {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 25%;
+    height: 20px;
+    margin-bottom: 20px;
+    padding: 0.5em;
+        }
+
+    input[type="email"] {
+        width: 25%;
+        height: 20px;
+        padding: 0.5em;
+        }
+
+        input[type="tel"] {
+            width: 15%;
+            margin-bottom: 20px;
+        }
+body {
+        background-color: white;
+        
+        -webkit-box-align: center;
+            }
+
+    .wrapper {
+        background-color:silver;
+                   
+        
+    }
+
+.btn
+{
+	background-color: rgb(78, 78, 204);
+	width: 90px;
+	height: 40px;
+    color: none;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+
+
+
